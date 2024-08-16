@@ -15,6 +15,14 @@ const assignments = [
       desc: 'Basics of Javascript and some assignments (4th Aug, 2024)',
       link: 'https://band-feverfew-55d.notion.site/4-August-2024-0e798f1a1e604080a905849c88dd0024',
     },
+    {
+      id: 3,
+      title: 'Public Key Cryptography',
+      category: 'web3',
+      img: './images/assignment-2-web3.png',
+      desc: 'Public key cryptography and web wallet (4th Aug, 2024)',
+      link: 'https://band-feverfew-55d.notion.site/9-August-2024-29b970fd0f0240a2a134220e4f65b7d0',
+    },
   ];
   
   export default assignments;
